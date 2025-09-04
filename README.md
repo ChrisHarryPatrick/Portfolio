@@ -7,28 +7,6 @@ A sleek and modern personal portfolio website built with React and Tailwind CSS,
 - **Styling**: Tailwind CSS
 - **Animations**: Custom CSS keyframes (meteors, stars, fade-ins)
 
-## 📁 Folder Structure
-
-/portfolio-website
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── StarBackground.jsx
-│   │   └── Navbar.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── Skills.jsx
-│   │   ├── Projects.jsx
-│   │   └── Contact.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── tailwind.config.js
-├── postcss.config.js
-└── package.json
-
 ---
 
 ## 💫 Features
